@@ -1,5 +1,5 @@
 {
-  "minVersionCode": 1,
+  "minVersionCode": 2,
   "latestVersionCode": 2,
-  "message": "(시험 중) 새 버전 안내가 이렇게 보입니다."
+  "message": "(시험 중) 구버전이 막히면 이렇게 보입니다."
 }
